@@ -5,12 +5,12 @@
   "description": "Simple node.js lib to work with http://www.envoyservices.com/ api",
   "homepage": "https://github.com/valorkin/worldpay-envoy-lib-node",
   "bugs": {
-    "url": "https://github.com/valorkin/worldpay-envoy-lib-node/issues"
+    "baseUrl": "https://github.com/valorkin/worldpay-envoy-lib-node/issues"
   },
   "author": {
     "name": "Dmitriy Shekhovtsov",
     "email": "valorkin@gmail.com",
-    "url": "https://github.com/valorkin"
+    "baseUrl": "https://github.com/valorkin"
   },
   "keywords": [
     "worldpay",
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/valorkin/worldpay-envoy-lib-node"
+    "baseUrl": "https://github.com/valorkin/worldpay-envoy-lib-node"
   },
   "licenses": [
     {
