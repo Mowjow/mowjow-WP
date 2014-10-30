@@ -1,0 +1,48 @@
+{
+  "name": "worldpay-envoy",
+  "version": "0.0.1",
+  "main": "./lib/index.js",
+  "description": "Simple node.js lib to work with http://www.envoyservices.com/ api",
+  "homepage": "https://github.com/valorkin/worldpay-envoy-lib-node",
+  "bugs": {
+    "url": "https://github.com/valorkin/worldpay-envoy-lib-node/issues"
+  },
+  "author": {
+    "name": "Dmitriy Shekhovtsov",
+    "email": "valorkin@gmail.com",
+    "url": "https://github.com/valorkin"
+  },
+  "keywords": [
+    "worldpay",
+    "payments",
+    "rest",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valorkin/worldpay-envoy-lib-node"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "scripts": {
+    "jshint": "gulp lint"
+  },
+  "dependencies": {
+    "lodash": "2.*",
+    "request": "^2.45.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-jshint": "^1.8.4",
+    "jshint-stylish": "^0.4.0"
+  },
+  "maintainers": [
+    {
+      "name": "valorkin",
+      "email": "valorkin@gmail.com"
+    }
+  ]
+}
