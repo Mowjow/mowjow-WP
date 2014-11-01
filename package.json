@@ -1,6 +1,6 @@
 {
   "name": "worldpay-envoy",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "./lib/index.js",
   "description": "Simple node.js lib to work with http://www.envoyservices.com/ api",
   "homepage": "https://github.com/valorkin/worldpay-envoy-lib-node",
